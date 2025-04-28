@@ -1,0 +1,15 @@
+{
+	"JSON_TYPE": "MACHINE_DATA",
+	"NORMALCAR": {
+		"curve_angle": 0.0f,
+		"grip_power": 0.0f,
+		"speed": 0.0f,
+		"speed_max" : 0.0f,
+		"power": 0,
+		"defence": 0,
+		"weight_heavy": 0,
+		"weight_light": 0,
+		"charge_speed": 0.0f,
+		"HP": 0
+	}
+}
